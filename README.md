@@ -38,7 +38,7 @@ The SFe SDK will be designed specifically for developers of programs that use th
 
 ### Where do the samples come from?
 
-The samples are derived from The Fixed Jummbox Soundfont by stgiga. They developed it with collaboration by Micasddsa4095, NPC, Zandro Reveille, TheFatMan, drunkenjesus, little-scale and JummBus. Some samples are taken from the YMF262, YM3812, YM2612 and YM2413 FM synthesiser ICs.
+The samples are derived from The Fixed Jummbox Soundfont by stgiga. They developed it with collaboration by Micasddsa4095, NPC, Zandro Reveille, TheFatMan, drunkenjesus, little-scale, Retro Player, William B. Santos, shaktool, and JummBus. Some samples are taken from the YMF262, YM3812, YM2612 and YM2413 FM synthesiser ICs.
 
 The license of the original soundfont is [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), so please respect this license when using this sample pack.
 
